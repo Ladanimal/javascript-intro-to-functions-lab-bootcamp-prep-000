@@ -12,8 +12,6 @@ function sayHiToGrandma(string)
 {
 return console.log("Hello")
 return console.log("I can't hear you")
-
-console.log("I love you, grandma")
 return console.log("I love you, too")
 }
 
