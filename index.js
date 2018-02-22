@@ -16,6 +16,8 @@ function sayHiToGrandma(string)
 function logShout(string)
 {
   return console.log("HELLO")
+  return console.log("I love you, too.")
+  return console.log("YES INDEED")
 }
 
 function logWhisper(string)
@@ -27,3 +29,5 @@ function andCallThrough(string)
 {
   return console.log("HELLO")
 }
+
+
