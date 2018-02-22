@@ -11,6 +11,7 @@ return string.toLowerCase("hello")
 function sayHiToGrandma(string)
 {
   return console.log("I cant hear you!")
+  return console.log("I love you, too")
 }
 
 function logShout(string)
