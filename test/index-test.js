@@ -24,7 +24,7 @@ describe('sayHiToGrandma(string)', function() {
 })
 })
    describe('sayHiToGrandma(string', function() {
-   it('returns "I love you, too." if `string` is "I love you, Grandma"`',
+   it('returns "I love you, too" if `string` is "I love you, Grandma"`',
     function() {
      expect(sayHiToGrandma("I love you, Grandma")).ToEqual(console.log("I love you, too"))
     })
