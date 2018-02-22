@@ -29,5 +29,3 @@ function andCallThrough(string)
 {
   return console.log("HELLO")
 }
-
-
