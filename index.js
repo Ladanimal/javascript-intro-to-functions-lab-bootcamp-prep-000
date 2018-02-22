@@ -10,7 +10,7 @@ return string.toLowerCase("hello")
 
 function sayHiToGrandma(string)
 {
-console.log("Hello")
+return console.log("Hello")
 return console.log("I can't hear you")
 
 console.log("I love you, grandma")
