@@ -18,7 +18,7 @@ return console.log("I love you, too")
 function logShout(string)
 {
   return string.toUpperCase("HELLO")
-  return string("I love you, too")
+  return string.toLowerCase("I love you, too")
   return string.toUpperCase("YES INDEED")
 }
 
