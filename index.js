@@ -16,7 +16,7 @@ function sayHiToGrandma(string)
 function logShout(string)
 {
   return string.toUpperCase("HELLO")
-  return console.log("I love you, too.")
+  return console.log("I love you, too")
   return string.toUpperCase("YES INDEED")
 }
 
