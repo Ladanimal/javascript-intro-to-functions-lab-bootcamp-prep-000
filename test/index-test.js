@@ -45,9 +45,9 @@ describe('sayHiToGrandma(string)', function() {
     expect(sayHiToGrandma('HELLO')).toEqual(console.log("YES INDEED!")) 
     
     describe('sayHiToGrandma(string)',
-    expect(sayHiGrandma("I love you, Grandma".
+    (it('returns "I love you, too." if `string` is "I love you, Grandma."`', expect(sayHiGrandma("I love you, Grandma".
     ,.ToEqual(console.log("I love you, too"))
-    (it('returns "I love you, too." if `string` is "I love you, Grandma."`', 
+    
   function() {
     expect(sayHiToGrandma("I love you, Grandma.")).toEqual(console.log("I love you, too."))
 }
